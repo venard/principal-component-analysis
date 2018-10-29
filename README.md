@@ -1,2 +1,1 @@
-# principal-component-analysis
-Principal Component Analysis (PCA) with Python
+# Principal Component Analysis (PCA) with Python
